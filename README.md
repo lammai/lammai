@@ -28,8 +28,8 @@
 
 ---
 
-<img align="left" alt="Lam Mai's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lammai&show_icons=true&hide_border=true&title_color=000000&icon_color=000000" />
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lammai&layout=compact" />
+<img align="left" alt="Lam Mai's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lammai&show_icons=true&hide_border=true&title_color=000000&icon_color=59ffff" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lammai&layout=compact&hide=Vim script" />
 
 [CurrentJfxApp]: https://github.com/lammai/FractalFX
 [instagram]: https://instagram.com/lamb.thesheep
