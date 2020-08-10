@@ -1,4 +1,4 @@
-### Hi there, I'm Lam �
+### Hi there, I'm Lam 👋
 
 ## I'm a Computer Science student
 - 📂 I’m currently working on a [JavaFX Applications][CurrentJfxApp]!
