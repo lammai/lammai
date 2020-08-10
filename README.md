@@ -1,7 +1,7 @@
 ### Hi there, I'm Lam 👋
 
 ## I'm a Computer Science student
-- 📂 I’m currently working on a [JavaFX Applications][CurrentJfxApp]!
+- 📂 I’m currently working on [JavaFX Applications][CurrentJfxApp]!
 - 🌐 I’m currently learning web development 🔨
 - ⚡ Fun fact: [Cardistry][instagram] and [3D rendering][renders] are my other hobbies. ♠️
 
