@@ -26,8 +26,6 @@
 <br />
 <br />
 
----
-
 [CurrentJfxApp]: https://github.com/lammai/FractalFX
 [instagram]: https://instagram.com/lamb.thesheep
 [linkedin]: https://www.linkedin.com/in/lam-mai-b71234157/
