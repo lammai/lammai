@@ -28,9 +28,6 @@
 
 ---
 
-<img align="left" alt="Lam Mai's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lammai&show_icons=true&hide_border=true&theme=gotham" />
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lammai&layout=compact&theme=gotham&hide=Vim script" />
-
 [CurrentJfxApp]: https://github.com/lammai/FractalFX
 [instagram]: https://instagram.com/lamb.thesheep
 [linkedin]: https://www.linkedin.com/in/lam-mai-b71234157/
