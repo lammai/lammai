@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science student
 - 🖥️ I’m currently working on [JavaFX Applications][CurrentJfxApp]!
-- 🌐 I’m currently learning web development 📡
+- 🌐 I’m currently learning [web development][CurrentWebApp] 📡
 - ⚡ Fun fact: [Cardistry][instagram] and [3D rendering][renders] are my other hobbies 🤖
 
 ### Connect with me:
@@ -25,6 +25,7 @@
 <br />
 
 [CurrentJfxApp]: https://github.com/lammai/FractalFX
+[CurrentWebApp]: https://lammai.github.io/
 [instagram]: https://instagram.com/lamb.thesheep
 [linkedin]: https://www.linkedin.com/in/lammal
 [renders]: https://github.com/lammai/dotfiles/blob/master/README.md
