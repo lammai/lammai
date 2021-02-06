@@ -1,8 +1,8 @@
 ### Hi there, I'm Lam 👋
 
 ## I'm a Computer Science student
-- 🖥️ I’m currently working on [JavaFX Applications][CurrentJfxApp]!
-- 🌐 I’m currently learning [web development][CurrentWebApp] 📡
+- 🖥️ I’m currently working on [StruggleMeals!][CurrentApp]!
+- 🌐 I’m currently learning [Three.js][CurrentWebApp] 📡
 - ⚡ Fun fact: [Cardistry][instagram] and [3D rendering][renders] are my other hobbies 🤖
 
 ### Connect with me:
@@ -24,8 +24,8 @@
 <br />
 <br />
 
-[CurrentJfxApp]: https://github.com/lammai/FractalFX
-[CurrentWebApp]: https://lammai.github.io/
+[CurrentApp]: https://github.com/lammai/StruggleMeals
+[CurrentWebApp]: https://threejs.org/
 [instagram]: https://instagram.com/lamb.thesheep
 [linkedin]: https://www.linkedin.com/in/lammal
 [renders]: https://github.com/lammai/dotfiles/blob/master/README.md
