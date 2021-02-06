@@ -23,8 +23,8 @@
 
 <br />
 <br />
-![banner](hitech-lolife.jpg)
 
+![banner](hitech-lolife.jpg)
 [CurrentApp]: https://github.com/lammai/StruggleMeals
 [CurrentWebApp]: https://threejs.org/
 [instagram]: https://instagram.com/lamb.thesheep
