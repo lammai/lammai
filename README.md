@@ -24,7 +24,7 @@
 <br />
 <br />
 
-![banner](hitech-lolife.jpg)
+![banner](hitech-lolife.gif)
 
 [CurrentApp]: https://github.com/lammai/StruggleMeals
 [CurrentWebApp]: https://threejs.org/
