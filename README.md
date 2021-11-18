@@ -27,7 +27,7 @@
 ![banner](hitech-lolife.gif)
 
 [CurrentApp]: https://github.com/lammai/StruggleMeals
-[CurrentWebApp]: https://threejs.org/
+[CurrentWebApp]: https://lammai.github.io/
 [instagram]: https://instagram.com/lamb.thesheep
 [linkedin]: https://www.linkedin.com/in/lammal
 [renders]: https://github.com/lammai/dotfiles/blob/master/README.md
