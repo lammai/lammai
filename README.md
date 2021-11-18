@@ -1,7 +1,7 @@
 ### Hi there, I'm Lam 👋
 
 ## I'm a Computer Science student
-- 🖥️ I’m currently working on [StruggleMeals][CurrentApp]!
+- 🖥️ Currently trying to gitgud!
 - 🌐 I’m currently learning [Three.js][CurrentWebApp] 📡
 - ⚡ Fun fact: [Cardistry][instagram] and [3D rendering][renders] are my other hobbies 🤖
 
