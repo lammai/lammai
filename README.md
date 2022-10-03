@@ -28,7 +28,6 @@
 ![cardistry1](https://c.tenor.com/cBAGgyHuZccAAAAM/playingcards-cardistry.gif)
 ![cardistry2](https://c.tenor.com/2OJv8JqrGNIAAAAM/playingcards-cardistry.gif)
 ![cardistry3](https://c.tenor.com/qfBGY5q9alcAAAAM/playingcards-cardistry.gif)
-![cardistry4](https://c.tenor.com/Pyw439YQUtsAAAAM/playingcards-cardistry.gif)
 
 [CurrentApp]: https://github.com/lammai/StruggleMeals
 [CurrentWebApp]: https://lammai.github.io/
