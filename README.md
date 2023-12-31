@@ -1,10 +1,8 @@
 ![banner](hitech-lolife.gif)
-### 🤖 Hi there, I'm Lam 👋
+### 🤖 Hi there
 
-## Software Engineer at DocuSign
-- 👨‍🎓 Studied CS at University of Washington Tacoma
-- 🌐 Currently playing around with Three.js or anything that interest me in general 📡
-- ⚡ Fun fact: [Cardistry][cardistry] and [3D rendering][renders] are my other hobbies 🤖
+I shuffle cards and make stuff with code ♥️♠️♦️♣️  
+I try to make the stuff with code look good occasionally :)
 
 ### Connect with me:
 
